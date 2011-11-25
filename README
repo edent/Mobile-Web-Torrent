@@ -1,0 +1,3 @@
+As described at http://shkspr.mobi/blog/index.php/2011/11/mobile-bit-torrent/
+This mobile website allows a phone to search for a torrent file.
+The webserver does not see the search request nor the response.
